@@ -2,13 +2,13 @@
   "name": "my-va",
   "version": "0.1.0",
   "private": true,
-  "homepage": "git@github.com:ChallapalliHemanthsaikumar/visual",
+  
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "deploy": "npm run build && gh-pages -d .next"
+    "lint": "next lint"
+    
   },
   "dependencies": {
     "canvg": "^4.0.1",
