@@ -12,7 +12,7 @@ import ChangesDetected from "./components/birds";
 export default function Home() {
   return (
     <div>
-    <Headtitle title={"VAST Challenge MC2 2018"}/>
+    <Headtitle title={"Our Take on Mini-Challenge 2 of The 2018 VAST Challenge"}/>
       <TeamPage/>
       <TrendsObserved />
       <AnomaliesDetected />
