@@ -53,40 +53,31 @@ const TeamPage = () => {
 
 
     </div>
-    <div style={{padding:"20px",margin:"20px"}}>
-    <h1  style={{ color: "black" ,fontSize: "30px",fontWeight:"bolder"}}>About</h1>
-    <p>
-        `We have been focused on addressing critical challenges related to the Boonsong Lekagul waterways. Here are some of the problems weve aimed to solve:`
-      </p>
+    <div style={{ padding: "20px", margin: "20px" }}>
+      <h1 style={{ color: "black", fontSize: "30px", fontWeight: "bolder" }}>About</h1>
+      <p>Our focus centered on tackling pivotal challenges associated with the Boonsong Lekagul waterways. Herein, we outline some of the issues our efforts were directed towards resolving: </p>
       <ol>
-        <li>
-          Characterize the past and most recent situation with respect to chemical contamination in the Boonsong Lekagul waterways. Identify any trends of interest within the investigation.
-        </li>
-        <li>
-          Analyze anomalies found in the waterway samples dataset, evaluating their impact on environmental analysis. Assess the sufficiency of data collection by the Hydrology Department and propose changes in the sampling approach for a comprehensive understanding.
-        </li>
-        <li>
-          Review findings to determine any concerns for Pipit or other wildlife. Recommend alterations in the sampling strategy to better comprehend the waterways situation in the Preserve.
-        </li>
+        <li>Examine the past and current status of chemical contamination in the Boonsong Lekagul waterways, identifying notable trends observed throughout the investigation.</li>
+        <li>Evaluate the impact of anomalies discovered in the waterway samples dataset on environmental analysis, assess the sufficiency of data collection by the Hydrology Department, and suggest modifications to the sampling approach for a better understanding.</li>
+        <li>Review the findings to identify potential concerns for Pipit and other wildlife, and propose adjustments to the sampling to enhance the understanding of the waterways situation in the Preserve.</li>
       </ol>
-      <p>
-        Each submission for the questions should contain limited images and word count to ensure concise and informative analysis.
-      </p>
-      </div>
+      <p> Each submission for the above questions should contain limited images and word count to ensure concise and informative analysis.</p>
+    </div>
+
       <div style={{padding:"20px",margin:"20px"}}>
       <h1 style={{ color: "black" ,fontSize: "30px",fontWeight:"bolder"}}>Tools Utilized</h1>
       <p style={{paddingBottom:"10px"}}>
-        In our endeavor to analyze and visualize data effectively, we employed several tools and technologies throughout our project. Some of the key tools include:
+      In our efforts to analyze and visualize data, we utilized various tools and technologies in our project. Some important tools we used include:      
       </p>
       <ul>
         <li> <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}}>Tableau</p>  Leveraged for interactive and insightful data visualization.</li>
         <li>  <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}}> Python </p> Utilized for data processing, analysis, and statistical modeling.</li>
         <li> <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}}>D3  </p> Employed for creating dynamic and interactive data visualizations on the web.</li>
         <li> <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}} >OpenRefine</p>  Played a crucial role in data cleaning and transformation, ensuring data quality.</li>
-      </ul>
+      </ul><br>
       <p>
-        These tools were instrumental in different phases of our project, aiding in data cleaning, analysis, and presentation, allowing us to derive meaningful insights and present them in an engaging manner.
-      </p>
+      These tools were instrumental in different phases of our project, aiding in data cleaning, analysis, and presentation, allowing us to derive meaningful insights and present them in an engaging manner.
+      </p></br>
       </div>
     </div>
   );
