@@ -21,22 +21,22 @@ const ChangesDetected = () => {
     
 
     <div style={{ padding:"10px",fontSize:"20px",fontWeight:"bold" }}>     
-      <p>Changes being Proposed in Sampling Stratagy</p>
+      <p>The Changes We Proposed in the Sampling Stratagy</p>
     </div>
     <div style={{padding:"10px"  }}>     
       <p>To further refine the sampling approach and ensure a comprehensive understanding of the waterways situation in the Preserve, additional changes are proposed in the context of chemical readings:</p>
     </div>
     <div style={{padding:"10px"  }}>     
-      <p>1. Regular Collection of Data from All Locations: Implement a consistent and frequent schedule for data collection across all designated locations. This ensures that the sampling process adequately captures variations in chemical concentrations over time and space.</p>
+      <p>1. Regular Collection of Data from All Locations: Set up a reliable and frequent schedule to gather data from designated locations. This helps ensure that our sampling method effectively captures variations in chemical concentrations across different times and places.</p>
     </div>
     <div style={{padding:"10px"  }}>     
-      <p>2. Inclusion of All Chemicals Values: Expand the scope of chemical analysis to encompass the entire list of identified toxic chemicals. Include readings for each chemical, even if their concentrations are negligible, by inserting zero values where a particular chemical is not detected. This approach ensures a holistic assessment of potential contaminants.</p>
+      <p>2. Inclusion of All Chemicals Values: In the revised sampling strategy, we suggest analyzing all identified toxic chemicals, regardless of their concentrations. This means including readings for each chemical, even if the levels are minimal, by inserting zero values when a specific chemical is not detected. This approach allows for a comprehensive evaluation of potential contaminants.</p>
     </div>
     <div style={{padding:"10px"  }}>     
-      <p> 3. Consistent Sample Collection Count: Maintain uniformity in the number of samples collected at all times across different locations. This practice enhances the reliability of the dataset and facilitates meaningful comparisons between various sampling points.</p>
+      <p> 3. Consistent Sample Collection Count: Ensure a consistent number of samples is collected across different locations at all times. This helps maintain dataset reliability and allows for meaningful comparisons between various sampling points.</p>
     </div>
     <div style={{padding:"10px"  }}>     
-      <p>By incorporating these additional changes into the sampling strategy, the data collection process becomes more robust, comprehensive, and consistent. This approach not only addresses specific concerns related to highly toxic chemicals but also ensures a standardized and thorough evaluation of the water quality across the Preserve. This refined sampling methodology forms a solid foundation for accurate environmental assessments and informed decision making regarding the protection of wildlife and ecosystems.</p>
+      <p>By integrating these proposed changes into our sampling strategy, we enhance the data collection process. This results in a more thorough and consistent approach, addressing concerns about highly toxic chemicals. The method ensures a standardized and comprehensive evaluation of water quality in the Preserve. This refined sampling approach establishes a strong foundation for precise environmental assessments and well-informed decision-making in the protection of wildlife and ecosystems.</p>
     </div>
 
  
@@ -104,7 +104,7 @@ const ChangesDetected = () => {
       <p>5. Documentation of River Stream Flow Direction: Specify the direction of river stream flow, indicating whether the sampling locations are upstream or downstream. This information is crucial for understanding the transport and dispersion of toxic substances.</p>
     </div>
     <div style={{padding:"10px"  }}>     
-      <p>By implementing these suggested changes, the sampling strategy can be enhanced to provide a more nuanced understanding of the waterways situation in the Preserve. This proactive approach aims to address specific concerns related to the presence of highly toxic chemicals and supports informed decision making for the conservation of the ecosystem and its wildlife.</p>
+      <p>Implementing these proposed changes improves the sampling strategy, leading to a more detailed understanding of the waterways in the Preserve. This proactive approach specifically targets concerns about highly toxic chemicals, facilitating well-informed decisions for conserving the ecosystem and its wildlife.</p>
     </div>
      
      
