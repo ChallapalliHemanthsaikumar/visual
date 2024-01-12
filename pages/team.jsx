@@ -74,10 +74,10 @@ const TeamPage = () => {
         <li>  <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}}> Python </p> Utilized for data processing, analysis, and statistical modeling.</li>
         <li> <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}}>D3  </p> Employed for creating dynamic and interactive data visualizations on the web.</li>
         <li> <p style={{ color: "black" ,fontSize: "20px",fontWeight:"bold"}} >OpenRefine</p>  Played a crucial role in data cleaning and transformation, ensuring data quality.</li>
-      </ul><br>
+      </ul>
       <p>
       These tools were instrumental in different phases of our project, aiding in data cleaning, analysis, and presentation, allowing us to derive meaningful insights and present them in an engaging manner.
-      </p></br>
+      </p>
       </div>
     </div>
   );
