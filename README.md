@@ -1,3 +1,41 @@
+# VAST Challenge 2018 - Mini-Challenge 2
+
+About:
+Our focus was on addressing challenges related to the Boonsong Lekagul waterways. We examined past and current chemical contamination, evaluated anomalies in the waterway samples dataset, and proposed modifications to improve data collection for environmental analysis.
+
+Tools Utilized:
+- Tableau
+- Python
+- D3
+- OpenRefine
+
+Key Questions Explored:
+1. Chemical Contamination Trends:
+   - Examined past and recent chemical contamination in Boonsong Lekagul waterways.
+   - Identified trends of interest in the investigation.
+
+2. Anomalies in Waterway Samples:
+   - Detected anomalies, particularly elevated iron concentrations.
+   - Assessed data sufficiency and proposed changes to the sampling approach.
+
+3. Impact on Wildlife:
+   - Evaluated findings for potential concerns to Pipit and wildlife.
+   - Suggested changes in the sampling strategy for better understanding.
+
+Proposed Changes:
+1. Regular Data Collection:
+   - Set up a reliable schedule for data collection from all locations.
+
+2. Include All Chemicals Values:
+   - Analyze all identified toxic chemicals, inserting zero values when not detected.
+
+3. Consistent Sample Collection Count:
+   - Maintain a consistent number of samples across different locations.
+
+Findings Concerning Pipit and Wildlife:
+- Identified highly toxic chemicals with varying concentrations.
+- Proposed changes include daily water temperature monitoring and using water sensors for consistent data collection.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -24,14 +62,6 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
 ## Deploy on Vercel
 
